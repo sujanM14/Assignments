@@ -11,3 +11,7 @@ https://cassandra.link/post/apache-cassandra-and-python-step-by-step-guide-with-
 
 hotel management system
 https://itsourcecode.com/nodejs-projects/hotel-management-system-project-in-node-js-with-source-code/#google_vignette
+
+
+
+bit.ly/MsShinobi
